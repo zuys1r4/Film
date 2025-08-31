@@ -1,10 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="Barış" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTss0Ykjh9Hv3I2CD4kVMnhyo7mAtXaYT04HMw3K1JIrl_lxIrsPBJK8n8&s=10" group-title="Filmler", Barış
+#EXTINF:-1 type="movie" tvg-id="" tvg-name="Barış" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTss0Ykjh9Hv3I2CD4kVMnhyo7mAtXaYT04HMw3K1JIrl_lxIrsPBJK8n8&s=10" group-title="Movies", Barış
 https://s27.pixtures.art/me/D3WyMJDhFHyWYwVjZwZhDzk1pzS5YwRjBQOjYxEIDHjhrQV2AP1VER0d0zxpTy4qUIlMKZhLKW0s0xi27vr1b720
 
-#EXTINF:-1 tvg-id="" tvg-name="Savaş" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQARjP96aCZi4JJYcgIo43-e7GWK75omJdZgU-LQO2_P4wv896ra0l2N7Pp&s=10" group-title="Filmler", Savaş
+#EXTINF:-1 type="movie" tvg-id="" tvg-name="Savaş" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQARjP96aCZi4JJYcgIo43-e7GWK75omJdZgU-LQO2_P4wv896ra0l2N7Pp&s=10" group-title="Movies", Savaş
 https://s5.imgmania.org/m5/DzkuL2fhHTShqTuypv5KLJguozEuYxMipzI2MKVhZwNlZv5WI0IPYHEZYwRjBQOjYxEIDHjd0zxnJ1aoJShnJRho3Was0xi5vr1b1080l0tra1
 
-#EXTINF:-1 tvg-id="" tvg-name="İslam" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3l2y9M23vOso6rngwohr7bT9O2E9kTgfMHiESdRlxW1p5TLX_anJv8b52&s=10" group-title="Filmler", İslam
+#EXTINF:-1 type="movie" tvg-id="" tvg-name="İslam" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3l2y9M23vOso6rngwohr7bT9O2E9kTgfMHiESdRlxW1p5TLX_anJv8b52&s=10" group-title="Movies", İslam
 https://s18.imagehub.pics/mo/DKMuqTSlYyEbMF5KLKxho2LhI2S0MKVhZwNlZv5KEHVgERjhZGN4ZUNhESIOGNd0zxnJ1uM2IbqJVhpTywpjs0xi18vr1b720
